@@ -1,6 +1,4 @@
-This file explains how classes and objects work in Python and demonstrates their usage through examples.
-
-Definitions:
+Definitions of all the OOPs concepts
 
 Class: A class is a blueprint or template that defines the attributes (data) and methods (functions) that its objects will possess.
 
